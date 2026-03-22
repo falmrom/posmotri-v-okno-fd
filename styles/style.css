@@ -179,12 +179,13 @@ ol {
   line-height: 100%;
   text-transform: uppercase;
   white-space: nowrap;
+  max-width: 196px;
   overflow: hidden;
   text-overflow: ellipsis;
 }
 
 .content__video-card-description {
-  line-height: 1.6;
+  line-height: 16px;
   font-weight: 400;
 
   display: -webkit-box;
@@ -223,6 +224,7 @@ ol {
   align-items: center;
   width: fit-content;
   gap: 5px;
+  padding: 1px;
 }
 
 .search-form__textfield {
@@ -232,7 +234,7 @@ ol {
   color: #fff;
   background-color: transparent;
   appearance: none;
-  font-family: Fira Sans Condensed;
+  font-family: Fira Sans Condensed, sans-serif;
   width: 225px;
   font-size: 18px;
 }

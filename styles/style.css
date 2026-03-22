@@ -169,7 +169,7 @@ ol {
 }
 
 .content__list-item {
-  padding: 0 3px 0 3px; 
+  padding: 0 3px 0 3px;
 }
 
 .content__video-card-title {
@@ -229,7 +229,7 @@ ol {
   border-width: 1px 0px 1px 0px;
   border-style: solid;
   border-color: #fff;
-  color: #fff; 
+  color: #fff;
   background-color: transparent;
   appearance: none;
   font-family: Fira Sans Condensed;
@@ -269,7 +269,7 @@ ol {
   opacity: 1;
 }
 
-.search-form__checkbox-list > .search-form__label:hover{
+.search-form__checkbox-list > .search-form__label:hover {
   text-decoration: underline;
 }
 
